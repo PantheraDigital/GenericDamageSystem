@@ -1,0 +1,7 @@
+C:\Users\Matteo\source\repos\DamageSysDemo_CSharp\bin\Debug\DamageSysDemo_CSharp.exe.config
+C:\Users\Matteo\source\repos\DamageSysDemo_CSharp\bin\Debug\DamageSysDemo_CSharp.exe
+C:\Users\Matteo\source\repos\DamageSysDemo_CSharp\bin\Debug\DamageSysDemo_CSharp.pdb
+C:\Users\Matteo\source\repos\DamageSysDemo_CSharp\obj\Debug\DamageSysDemo_CSharp.csproj.AssemblyReference.cache
+C:\Users\Matteo\source\repos\DamageSysDemo_CSharp\obj\Debug\DamageSysDemo_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\source\repos\DamageSysDemo_CSharp\obj\Debug\DamageSysDemo_CSharp.exe
+C:\Users\Matteo\source\repos\DamageSysDemo_CSharp\obj\Debug\DamageSysDemo_CSharp.pdb
